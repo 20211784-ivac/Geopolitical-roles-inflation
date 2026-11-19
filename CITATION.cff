@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated research article. Replace the repository DOI/URL after the public deposit is created."
+title: "Code for Do AI-Classified Geopolitical Actor Roles Improve Inflation Assessment?"
+type: software
+authors:
+  - family-names: "Cubas-Cubas"
+    given-names: "Ivanna"
+    affiliation: "National Agrarian University; SIERNA"
+  - family-names: "Dávila-Garcia"
+    given-names: "José"
+    affiliation: "ESAN University"
+  - family-names: "Bravo Guillén"
+    given-names: "Alissa"
+    affiliation: "Ministry of Economy and Finance of Peru; National University of San Marcos"
+  - family-names: "Orihuela Romero"
+    given-names: "Carlos"
+    affiliation: "National Agrarian University; SIERNA"
+abstract: "Analysis and source-audit scripts for a study evaluating whether AI-classified geopolitical actor roles add information for country-level inflation assessment."
+keywords:
+  - geopolitical risk
+  - inflation
+  - AI-GPR
+  - reproducibility
+  - forecast evaluation
+repository-code: "TO_BE_ASSIGNED"
